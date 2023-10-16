@@ -442,6 +442,7 @@ padding-left: 5% !important;
 .contactmeEmail{
     width: 70%;
     height: 40px;
+     margin-left: 10%;
     border-radius: 5px;
     font-family: 'Poppins', sans-serif;
     color: white;
