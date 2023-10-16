@@ -46,6 +46,7 @@ padding-left: 5% !important;
 .navbar-brand{
     font-size: 200% !important;
     margin-right: 0%;
+     margin-left: -1% !important;
 }    
 }
 @media(max-width:362px){
