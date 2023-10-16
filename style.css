@@ -405,6 +405,28 @@ padding-left: 5% !important;
 
 /* key skills and responsibiliteis media end */
 
+     /* accordion */
+    
+.accordion{
+    margin-bottom: 5%;
+}     
+.accordion-button{
+    background-color: #071017 !important;
+    color: white !important;
+    font-size: 100% !important;
+}
+.accordionMoviegallery{
+    width: 100% !important;
+}
+.accordionFoodgallery{
+    width: 100% !important;
+}
+.accordionBookgallery{
+    width: 100% !important;
+}
+--bs-accordion-btn-active-icon
+/* accordion end */
+
 
 /* contact me */
 .contactMeWraper{
