@@ -42,11 +42,11 @@ body{
 padding-left: 5% !important;
 }
 }
-@media(max-width:380px){
+@media(max-width:394px){
 .navbar-brand{
     font-size: 200% !important;
     margin-right: 0%;
-     margin-left: -1% !important;
+     margin-left: 1% !important;
 }    
 }
 @media(max-width:362px){
