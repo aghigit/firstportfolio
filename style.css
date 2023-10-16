@@ -48,6 +48,12 @@ padding-left: 5% !important;
     margin-right: 0%;
 }    
 }
+@media(max-width:362px){
+.navbar-brand{
+    font-size: 190% !important;
+    margin-right: 0%;
+}    
+}
 
 /* navbar mediaquery end */
 
