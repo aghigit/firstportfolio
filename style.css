@@ -389,6 +389,13 @@ padding-left: 5% !important;
         margin-left: 2%;
     }
 }
+@media(max-width:412px){
+    .keyskillsMediaqueryimg{
+        width: 40% !important;
+        margin-left: 30% !important;
+    }
+}
+
 
 /* key skills and responsibiliteis media end */
 
