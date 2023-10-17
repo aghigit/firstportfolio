@@ -405,6 +405,23 @@ padding-left: 5% !important;
 
 /* key skills and responsibiliteis media end */
 
+/* projects heading */
+.projectsheadingwrapper{
+    width: 100%;
+    text-align: center;
+    background-color: #071722;
+    font-family: 'Poppins', sans-serif;
+
+}
+.myprojectsHeading{
+    font-size: 250%;
+    font-weight: 700;
+    color: rgb(219, 255, 14);
+}
+
+/* projects heading end */
+
+
      /* accordion */
     
 .accordion{
